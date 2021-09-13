@@ -1,6 +1,3 @@
-import mif.psp.EmailValidator;
-import mif.psp.PasswordChecker;
-import mif.psp.PhoneValidator;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.function.Executable;
